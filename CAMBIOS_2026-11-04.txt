@@ -1,0 +1,12 @@
+Wonderland Sweets — corrección de franja y fotografía Fresh Citrus Touch
+
+Se corrigió la franja inferior a "CREATED WITH CARE IN MIAMI, FLORIDA" y su versión en español. Ahora es una barra de servicios estática y adaptable: cuatro columnas en escritorio y dos columnas en móviles/tabletas estrechas. Ningún elemento queda recortado y cada servicio apunta a su tarjeta.
+
+En ambos idiomas se cambió la fotografía pequeña superpuesta en la portada por la imagen local assets/photos/citrus-dessert-cups.webp, que ya aparece en el portafolio bajo el nombre "Fresh Citrus Touch".
+
+Se conservan las fotografías reales, Instagram, botón de WhatsApp, idioma inglés/español y modo claro/oscuro.
+
+Cómo abrir en Windows: descomprimir y abrir index.html. Cambiar a español con ES. Para publicar, subir todos los archivos conservando las carpetas.
+
+
+Actualización adicional: se incorporaron dos fotografías nuevas de juegos inflables (basketball challenge y target toss), optimizadas para mayor nitidez y apariencia profesional. También se integraron dentro de la galería y en la tarjeta de entretenimiento infantil en inglés y español.

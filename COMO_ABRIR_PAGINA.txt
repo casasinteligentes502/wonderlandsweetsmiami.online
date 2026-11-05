@@ -1,0 +1,28 @@
+WONDERLAND SWEETS - SITIO WEB CORREGIDO
+=======================================
+
+IMPORTANTE: Extraer TODOS los archivos del ZIP antes de abrir la pagina.
+
+EN WINDOWS (incluye archivos en D:)
+1. Clic derecho sobre el ZIP -> Extraer todo.
+2. Abra la carpeta extraida.
+3. Haga doble clic en index.html para abrir en INGLES.
+4. En la pagina, pulse ES en el encabezado para abrir ESPANOL.
+5. Pulse EN para regresar a INGLES.
+
+Tambien puede abrir espanol directamente desde: es/index.html
+NO abra la carpeta es desde la barra del navegador; abra es/index.html.
+
+INSTAGRAM
+Encontrara Instagram en el menu principal, en el menu movil,
+en Contacto y en el boton flotante a la izquierda.
+Perfil: https://www.instagram.com/_wonderland_sweets_/
+
+PUBLICACION EN GITHUB PAGES
+Suba index.html, la carpeta es y la carpeta assets y todos los
+demas archivos del ZIP manteniendo la misma estructura.
+Confirme el numero de WhatsApp antes de publicarla.
+Para configurar el dominio definitivo y las URLs OG use tools/configure_domain.py.
+
+Esta version conserva las fotografias locales, los idiomas, el selector
+claro/oscuro, la galeria y los formularios de cotizacion.
