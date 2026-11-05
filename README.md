@@ -59,3 +59,6 @@ No backend, no booking calendar, and no payment processor. Form submission is vi
 
 
 Actualización adicional: se incorporaron dos fotografías nuevas de juegos inflables (basketball challenge y target toss), optimizadas para mayor nitidez y apariencia profesional. También se integraron dentro de la galería y en la tarjeta de entretenimiento infantil en inglés y español.
+
+## Catálogo bilingüe actualizado
+Se agregaron seis categorías de productos y servicios, con todos los sabores y medidas provistos por el cliente. Los enlaces de cada categoría preparan una consulta por WhatsApp; no se publican precios inventados.
